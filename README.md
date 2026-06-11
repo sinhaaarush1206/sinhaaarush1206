@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Aarush Sinha
 
-BSc Applied Statistics & Data Science student at Symbiosis Statistical Institute, Pune (2023–2026)
+BSc Applied Statistics & Data Science student at Symbiosis Statistical Institute, Pune (2025–2029)
 
 ## What I work with
 - Statistics: Descriptive analysis, stratified sampling, regression estimation
