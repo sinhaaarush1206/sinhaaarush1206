@@ -13,6 +13,7 @@ BSc Applied Statistics & Data Science student at Symbiosis Statistical Institute
 - The Doorway Effect — Stratified sampling survey (N=150) with regression estimation
 - Stock Market Data Acquisition — End-to-end data management on NSE/BSE data
 - AQI India Case Study — 5-stage data collection pipeline
+- india-aqi-dashboard — Power BI dashboard - 11 years of India air quality across 142 cities
 
 ## Currently learning
 Python (pandas, matplotlib) | SQL | Power BI
